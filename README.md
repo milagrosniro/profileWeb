@@ -15,16 +15,5 @@ El proyecto se encuentra publicado en el siguiente enlace https://profile-niro-m
 - [@milagrosniro](https://github.com/milagrosniro)
 
   
-## Configuraciones para utilizar aplicación en local:
 
-Clonar el repositorio:
-```bash
-  git clone: https://github.com/milagrosniro/profileWeb.git
-```
-Dentro de la carpeta:
-
-```bash
-  npm install 
-  npm start
-```
     
